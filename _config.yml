@@ -14,7 +14,7 @@ avatar: https://avatars3.githubusercontent.com/u/11089491?v=3&u=ab94bb8d9d2ec449
 #
 # Flags below are optional
 #
-theme: Tactile
+theme: jekyll-theme-tactile
 
 # Includes an icon in the footer for each username you enter
 footer-links:
