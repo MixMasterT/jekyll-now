@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a software developer currently living in San Francisco. I am passionate about
+web development and network security. I have experience with a variety of frameworks
+including React, Redux, and Rails.
 
-### More Information
+### Purpose of this Site
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog is meant to provide a narrative account of the bootcamp experience. It provides
+both a storied context of my journey from professional educator to professional software
+developer, and a resource for others who may want to pursue a similar career change.
 
-### Contact me
+### Portfolio
 
-[email@domain.com](mailto:email@domain.com)
+If you are interested in my work, check out my [portfolio site](https:mixmastert.github.io)
