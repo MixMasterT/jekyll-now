@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started
+title: Managing Time
 ---
 
 ## Tick-Tock Tick-Tock Tick-Tock...
