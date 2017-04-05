@@ -31,17 +31,28 @@ defaults will save you time!
 After generating a package.json file, the next step in building with Webpack
 is to import dependencies. Any npm package that you want to use, such as
 babel-loader or react can be installed in the project with the command:
-'npm install <desired package> --save' or 'yarn add <desired package> --save'.
+'npm install <desired package> --save' or 'yarn add <desired package>'.
 Installing will add the package to a local node_modules director. It will
 generate this directory if it doesn't already exist. You must add webpack
 as a dependency with this process in order to use it. Don't forget!
-The --save flag tells npm (or yarn) to add the listed package (or packages)
-to the 'dependencies' list in your package.json file. This is important
-because it allows anyone to regenerate the same node_modules contents
-with the command "npm init" (or just "yarn") if they want to run your project
-somewhere else.
+The --save flag tells npm to add the listed package (or packages) to the
+'dependencies' list in your package.json file. This is important because it
+allows anyone to regenerate the same node_modules contents with the
+command "npm init" (or just "yarn") if they want to run your project
+somewhere else. You can also add the -dev flag after --save to save the
+dependency as a 'dev' dependency, which can be desirable, though I am not
+yet sure why.
 
 So far, this post has mostly been about setting up the package.json contents.
 That is a necessary prerequisite to running a Webpack build. You can still
 add more packages and modify package.json after your first Webpack build, but
 something needs to be there first, before Webpack will be able to do anything.
+When you want to actually run your code, you need to run the 'webpack.'
+
+To run webpack, you can either pass in the source, and then the build destination
+as command line arguments, or you can set up a webpack.config.js file
+to specify details of how exactly you want your project bundled. using
+webpack.config.js is the preferred method.
+
+I will be adding a more detailed post soon with more specifics about how
+to set up webpack.config.js, so check back for that!
