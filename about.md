@@ -16,4 +16,4 @@ developer, and a resource for others who may want to pursue a similar career cha
 
 ### Portfolio
 
-If you are interested in my work, check out my [portfolio site](https:mixmastert.github.io)
+If you are interested in my work, check out my [portfolio site]('https://mixmastert.github.io')
