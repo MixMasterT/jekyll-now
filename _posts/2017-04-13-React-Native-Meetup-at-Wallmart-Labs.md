@@ -40,7 +40,7 @@ might explain the increase in memory required then that work was handed
 back to the local device. Everything else was improved, however, including
 CPU usage, and most importantly load times. Better user experiences were
 also correlated to better mobile sales. React-Native proved to be a big
-win for Wallmart Labs. For more details, see this post[http://brianyang.com/react-native-at-walmartlabs-walmartlabs/]
+win for Wallmart Labs. For more details, see this [post](http://brianyang.com/react-native-at-walmartlabs-walmartlabs/)
 by Brian Yang.
 
 Benoit Lemaire spoke about Wallmart Labs' new Madgellan open-source
@@ -51,7 +51,7 @@ uses JavaScript and JSX to build native Android (Java-like) code, and iOS
 framework to enhance the features and usability of React-Native. Magellan
 helps modularize React-Native projects into 'MiniApps', and supports lots
 of automation, including test automation. You can learn more about this
-project at the github repo[https://github.com/TestArmada/magellan]
+project at the github [repo](https://github.com/TestArmada/magellan)
 
 Finally, Lucian Masalar shared his opinions, advice, and suggestions with
 regard to using React-Native. This was very interesting to me, because I am
