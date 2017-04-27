@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React-Native at Wallmart Labs
+title: Rocking them Beats!
 ---
 
 ## Great Learning Experience
