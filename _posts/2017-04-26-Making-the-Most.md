@@ -3,7 +3,7 @@ layout: post
 title: Meetups and Workshops
 ---
 
-## Takikng Full Advantage
+## Taking Full Advantage
 
 So even if no one wants to hire me as a developer, I am learning a ton while
 I am here in San Francisco. This is an amazing place to be because there
